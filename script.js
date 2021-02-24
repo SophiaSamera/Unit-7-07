@@ -12,6 +12,6 @@ function comparison () {
   for (let i = 0; i < number1; i++) {
     total = total + number2
   }
-  alert (total)
+  alert(total)
   total = 0
 }
