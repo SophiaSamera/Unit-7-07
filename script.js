@@ -9,10 +9,9 @@ function comparison () {
   number1 = parseInt(number1)
   number2 = parseInt(number2)
 
-  for (let i=0; i<number1; i++) {
+  for (let i = 0; i < number1; i++) {
     total = total + number2
-    }
-
-alert (total)
-total = 0
+  }
+  alert (total)
+  total = 0
 }
